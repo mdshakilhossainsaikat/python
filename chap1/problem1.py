@@ -1,3 +1,4 @@
+# write a program to show a poem as it is
 print('''Twinkle, Twinkle, Little Star
 
 By Jane Taylor
